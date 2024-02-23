@@ -28,13 +28,9 @@ Looking forward to creating something awesome together! 🚀
 ![Jest](https://img.shields.io/badge/Jest-Icon-red?logo=jest&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-Icon-green?logo=cucumber&logoColor=white)
 
-## Featured Projects:
-
-Showcase a few of your notable projects. Provide brief descriptions and links to their repositories or live demos. Use screenshots or GIFs to give a glimpse of the project.
-
 ## GitHub Activity:
 
-Display recent GitHub activity such as recent repositories you've starred, issues you've opened or closed, pull requests, etc. You can use widgets provided by GitHub.
+GET https://api.github.com/users/nonebula/events
 
 ## Contributions and Achievements:
 
