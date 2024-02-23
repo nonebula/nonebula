@@ -15,11 +15,18 @@ Display GitHub stats using shields or badges for metrics like followers, reposit
 
 ## Skills and Technologies:
 
-List your skills, programming languages, and technologies you are proficient in. You can use icons or badges to make it visually appealing.
-
-Add skills and technologies to your profile.
-List your achievements and certifications.
-Highlight any programming languages or tools you excel in.
+![HTML](https://img.shields.io/badge/HTML-Icon-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Icon-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Icon-yellow?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-Icon-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Icon-green?logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Icon-purple?logo=redux&logoColor=white)
+![Github](https://img.shields.io/badge/Github-Icon-black?logo=github&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-Icon-blue?logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Icon-purple?logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Icon-red?logo=sql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-Icon-red?logo=jest&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-Icon-green?logo=cucumber&logoColor=white)
 
 ## Featured Projects:
 
