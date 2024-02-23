@@ -11,7 +11,7 @@ Looking forward to creating something awesome together! 🚀
 
 ## Profile Stats:
 
-Display GitHub stats using shields or badges for metrics like followers, repositories, contributions, etc. You can use services like shields.io or GitHub's built-in feature for this.
+![My github stats](https://github-readme-stats.vercel.app/api?nonebula=yourusername&show_icons=true&theme=dark)
 
 ## Skills and Technologies:
 
