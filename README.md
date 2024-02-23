@@ -1,9 +1,9 @@
 # nonebula
 
 ## Hi there! 👋
-I'm Joe/nonebula, a passionate Frontend Developer based in London, UK. With a background in Teaching and a lifelong interest in computer science, I thrive on turning ideas into reality through code. My journey through EdX's Frontend Web Development Bootcamp has equipped me with a solid foundation in HTML, CSS, Javascript, and React.
+I'm Joe/nonebula, a passionate Frontend Developer based in London, UK. With a background in Teaching and a lifelong interest in computer science, I thrive on turning ideas into reality through code. My journey through CodeCademy & EdX's Frontend Web Development Bootcamp has equipped me with a solid foundation in HTML, CSS, Javascript, and React.
 
-Currently, I'm focused on freelance work and finding a role at an organization where I can hone my skills and progress in my career. When I'm not coding, you can find me running, climbing, cooking, or buried in TV shows and films.
+Currently, I'm focused on freelance work and finding a role at an organization where I can hone my skills and progress in my career.
 
 ## Profile Stats:
 
