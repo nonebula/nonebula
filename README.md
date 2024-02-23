@@ -11,7 +11,7 @@ Looking forward to creating something awesome together! 🚀
 
 ## Profile Stats:
 
-![My github stats](https://github-readme-stats.vercel.app/api?nonebula=yourusername&show_icons=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=nonebula&show_icons=true&theme=dark)
 
 ## Skills and Technologies:
 
