@@ -11,10 +11,11 @@ Currently, I'm focused on freelance work and finding a role at an organization w
 
 ## Skills and Technologies:
 
+![React](https://img.shields.io/badge/React-Icon-blue?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Icon-blue?logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-Icon-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Icon-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Icon-yellow?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-Icon-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Icon-green?logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-Icon-purple?logo=redux&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-Icon-black?logo=github&logoColor=white)
